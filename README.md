@@ -59,7 +59,7 @@ pip install -r requirements.txt
 # Ejecutar Jupyter Notebook
 jupyter notebook telecom_analysis.ipynb
 
-Uso del Proyecto
+**## Uso del Proyecto**
 1. Ejecución Completa
 El notebook está diseñado para ejecutarse secuencialmente:
 
