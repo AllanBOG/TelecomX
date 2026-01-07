@@ -60,7 +60,7 @@ jupyter>=1.0.0
 ## Instalación
 
 - Clonar el repositorio
-git clone https://github.com/tu-usuario/telecom-churn-analysis.git
+git clone https://github.com/AllanBOG/TelecomX.git
 cd telecom-churn-analysis
 
 - Instalar dependencias
